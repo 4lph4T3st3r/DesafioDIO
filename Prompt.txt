@@ -1,0 +1,66 @@
+ Podcast Conteúdo Nerdficial
+
+
+Prompt Criado e usado no OpenAI
+
+{PROMPT]
+
+Você é um roterista de Podcast e vamos criar um podcast de 
+tecnologia focado em IA e eu gostaria de uma ajuda para gerar 
+6 sugestões de nomes criativos para um podcast de IA feito por nerds  que tenha um trocadilho  Nerd/Geek no nome
+
+Resultado 
+
+"AI Que Nerd!"
+"Papo Geekteligente"
+"Código Nerdificial"  -> Escolha 
+"Bits & Gênios"
+"Techneerdia"
+"Cérebro Geekético"
+
+[REGRAS]
+
+Você é um roterista de Podcast e vamos criar um podcast de 
+tecnologia focado em IA cujo nome é  Código Nerdificial "Desvendando a Inteligência Artificial com a Mente Nerd".
+
+O formato do Roteiro deve ser:
+
+[INTRODUÇÃO]
+[CURIODIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+
+No bloco [INTRODUÇÃO] substitua por uma introdução igual a introdução do canal Gameplayrj como se fosse4m escritos pelo Davi Jones.
+
+No bloco [CURIOSIDADE 1] substitua por uma curiosidade de IA.
+No bloco [CURIODIDADE 2] substitua pelas notícias sobre IA.
+No bloco [FINALIZAÇÃO]     substitua por uma despedida cool com o final "Eu sou o Cezar e esse foi o podcast O senhor dos Algorítimos dessa semana".
+
+Prompt Positivos
+
+O podcast será apresentado por uma pessoa chamada Cezar.
+O podcast deve ser curto.
+Use termos de fácil explicação.
+
+Prompts Negativos
+
+Não ultrapasse 6 minutos de duração 
+Evite termos técnicos
+
+Resultado.
+
+[INTRODUÇÃO]
+Fala, galera! Beleza? Aqui é o Cezar, trazendo mais um episódio do podcast mais nerdificial da podosfera! Se você curte tecnologia, IA e aquele toque geek que a gente ama, tá no lugar certo. No episódio de hoje, vamos mergulhar em algumas curiosidades bem interessantes sobre inteligência artificial e ficar por dentro das últimas notícias desse universo fascinante. Então, se ajeita aí e bora nessa!
+
+[CURIOSIDADE 1]
+Vamos começar com uma curiosidade bem legal sobre IA. Você sabia que a inteligência artificial já está sendo usada para prever surtos de doenças? Utilizando enormes quantidades de dados, como relatórios de saúde, posts em redes sociais e até notícias, os algoritmos conseguem identificar padrões e antecipar possíveis epidemias. Isso permite que as autoridades de saúde tomem medidas preventivas mais rapidamente, ajudando a salvar muitas vidas. Incrível, né?
+
+[CURIOSIDADE 2]
+E agora, vamos para as últimas notícias sobre IA. Recentemente, uma nova IA desenvolvida pela OpenAI conseguiu resolver problemas matemáticos complexos que antes eram desafiadores até para os melhores matemáticos do mundo. Essa IA não só resolve equações rapidamente, mas também explica o processo de solução de uma maneira que até nós, meros mortais, conseguimos entender. Isso pode revolucionar a forma como ensinamos e aprendemos matemática no futuro!
+
+[FINALIZAÇÃO]
+
+E é isso, pessoal! Espero que tenham curtido essas informações e ficado tão empolgados quanto eu com as possibilidades da IA. Se você gostou, não esquece de seguir o podcast para não perder nenhum episódio. Eu sou o Cezar e esse foi o podcast "Código Nerdficial" dessa semana. Até a próxima, galera! Fui!
+
+
