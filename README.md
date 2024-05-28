@@ -20,4 +20,4 @@ Usei o site Soundraw para a criação da música de fundo.
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei bastante interessante usar a IA para a criação de conteúdo. 
